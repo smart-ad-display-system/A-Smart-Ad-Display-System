@@ -1,5 +1,5 @@
 # A-Smart-Ad-Display-System
 
-## Reference
+## References
 
-Our system is built on face detectors implemented by [https://github.com/timesler/facenet-pytorch]
+1. timesler's facenet_pytorch repo: https://github.com/timesler/facenet-pytorch
